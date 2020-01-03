@@ -1,0 +1,1 @@
+reminder: you can use !help for rythmbot commands
